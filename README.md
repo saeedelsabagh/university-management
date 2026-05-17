@@ -22,25 +22,25 @@ A Java desktop application for managing university students and their grades.
 ## Screenshots
 
 ### Login Screen
-![Login](login.jpeg)
+![Login](login.jpeg.png)
 
 ### Sign Up Screen
-![Signup](signup.jpeg)
+![Signup](signup.jpeg.png)
 
 ### Student Management
-![Student](student.jpeg)
+![Student](student.jpeg.png)
 
 ### Degree Management
-![Degree](degree.jpeg)
+![Degree](degree.jpeg.png)
 
 ### Update Student
-![Update Student](update-student.jpeg)
+![Update Student](update-student.jpeg.png)
 
 ### Update Degree
-![Update Degree](update-degree.jpeg)
+![Update Degree](update-degree.jpeg.png)
 
 ### Print Degrees
-![Print](print-degree.jpeg)
+![Print](print-degree.jpeg.png)
 
 ## Author
 
